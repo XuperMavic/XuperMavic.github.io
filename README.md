@@ -1,2 +1,2 @@
 # XuperMavic.github.io
-Information of me, Xiong Wenhao.
+My website (traditional version)
